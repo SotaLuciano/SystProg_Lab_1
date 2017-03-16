@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\visual studio\system programming\sysprog_lab1_4\sysprog_lab1_4\source.cpp(37): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'HANDLE'
+  SYSPROG_LAB1_4.vcxproj -> D:\Visual Studio\System Programming\SYSPROG_LAB1_4\Debug\SYSPROG_LAB1_4.exe
+  SYSPROG_LAB1_4.vcxproj -> D:\Visual Studio\System Programming\SYSPROG_LAB1_4\Debug\SYSPROG_LAB1_4.pdb (Full PDB)

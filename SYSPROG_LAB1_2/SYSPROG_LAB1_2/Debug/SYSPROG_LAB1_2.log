@@ -1,0 +1,15 @@
+﻿  Source.cpp
+d:\visual studio\system programming\sysprog_lab1_2\sysprog_lab1_2\source.cpp(52): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 3 has type 'HANDLE'
+d:\visual studio\system programming\sysprog_lab1_2\sysprog_lab1_2\source.cpp(74): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 3 has type 'HANDLE'
+d:\visual studio\system programming\sysprog_lab1_2\sysprog_lab1_2\source.cpp(76): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 3 has type 'HANDLE'
+d:\visual studio\system programming\sysprog_lab1_2\sysprog_lab1_2\source.cpp(94): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 3 has type 'HANDLE'
+d:\visual studio\system programming\sysprog_lab1_2\sysprog_lab1_2\source.cpp(134): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'HANDLE'
+d:\visual studio\system programming\sysprog_lab1_2\sysprog_lab1_2\source.cpp(135): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'HANDLE'
+d:\visual studio\system programming\sysprog_lab1_2\sysprog_lab1_2\source.cpp(135): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 2 has type 'HANDLE'
+d:\visual studio\system programming\sysprog_lab1_2\sysprog_lab1_2\source.cpp(136): warning C4477: 'printf' : format string '%X' requires an argument of type 'unsigned int', but variadic argument 1 has type 'HANDLE'
+d:\visual studio\system programming\sysprog_lab1_2\sysprog_lab1_2\source.cpp(140): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'HANDLE'
+d:\visual studio\system programming\sysprog_lab1_2\sysprog_lab1_2\source.cpp(140): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'HANDLE'
+d:\visual studio\system programming\sysprog_lab1_2\sysprog_lab1_2\source.cpp(140): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'HANDLE'
+d:\visual studio\system programming\sysprog_lab1_2\sysprog_lab1_2\source.cpp(140): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 4 has type 'HANDLE'
+  SYSPROG_LAB1_2.vcxproj -> D:\Visual Studio\System Programming\SYSPROG_LAB1_2\Debug\SYSPROG_LAB1_2.exe
+  SYSPROG_LAB1_2.vcxproj -> D:\Visual Studio\System Programming\SYSPROG_LAB1_2\Debug\SYSPROG_LAB1_2.pdb (Full PDB)
